@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "131741421291",
+    "firebase_url": "https://uststudentgate.firebaseio.com",
+    "project_id": "uststudentgate",
+    "storage_bucket": "uststudentgate.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131741421291:android:f84b4ce6f1e43f7423b8ae",
+        "android_client_info": {
+          "package_name": "com.medicaline.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "131741421291-5pmkerb0g0q7fim29hdj8nqpvrolinqu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlmLqB326TJVvco7xfWUirK8qeuDzlExU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "131741421291-5pmkerb0g0q7fim29hdj8nqpvrolinqu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
